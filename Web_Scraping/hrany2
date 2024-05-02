@@ -1,0 +1,70 @@
+Bratislava;Dunajská Streda;47
+Dunajská Streda;Komárno;52
+Komárno;Nové Zámky;31
+Nové Zámky;Nitra;38
+Nitra;Trnava;52
+Dudince;Levice;34
+Levice;Nitra;45
+Nitra;Topoľčany;34
+Topoľčany;Prievidza;49
+Prievidza;Trenčín;64
+Trenčín;Piešťany;42
+Piešťany;Trnava;33
+Trnava;Senec;24
+Senec;Bratislava;30
+Bratislava;Malacky;38
+Malacky;Kúty;29
+Kúty;Skalica;28
+Skalica;Senica;23
+Senica;Trnava;40
+Trenčín;Považská Bystrica;44
+Považská Bystrica;Žilina;31
+Žilina;Čadca;30
+Žilina;Martin;29
+Martin;Ružomberok;37
+Ružomberok;Dolný Kubín;16
+Dolný Kubín;Námestovo;31
+Ružomberok;Liptovský Mikuláš;26
+Poprad;Liptovský Mikuláš;59
+Poprad;Stará Ľubovňa;48
+Bardejov;Svidník;35
+Svidník;Stropkov;14
+Stropkov;Prešov;48
+Prešov;Poprad;83
+Prešov;Košice;36
+Košice;Michalovce;59
+Michalovce;Humenné;25
+Humenné;Prešov;70
+Košice;Rožňava;68
+Rožňava;Rimavská Sobota;59
+Rimavská Sobota;Lučenec;33
+Zvolen;Banská Bystrica;20
+Banská Bystrica;Brezno;42
+Zvolen;Žiar nad Hronom;25
+Žiar nad Hronom;Prievidza;37
+Dudince;Zvolen;53
+Dudince;Lučenec;83
+Štúrovo;Komárno;48
+Štúrovo;Levice;56
+Banská Bystrica;Ružomberok;53
+Prievidza;Žilina;63
+Zvolen;Detva;23
+Detva;Lučenec;32
+Rimavská Sobota;Tisovec;36
+Tisovec;Brezno;29
+Tisovec;Poprad;60
+Poprad;Rožňava;69
+Brezno;Liptovský Mikuláš;58
+Nitra;Žiar nad Hronom;84
+Nové Zámky;Galanta;45
+Galanta;Senec;27
+Stará Ľubovňa;Plaveč;15
+Plaveč;Bardejov;38
+Plaveč;Prešov;47
+Humenné;Snina;21
+Banská Bystrica;Turčianske Teplice;34
+Turčianske Teplice;Martin;27
+Žiar nad Hronom;Turčianske Teplice;38
+Štúrovo;Nové Zámky;49
+Nové Zámky;Levice;60
+Levice;Žiar nad Hronom;60
